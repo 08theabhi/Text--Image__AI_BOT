@@ -24,8 +24,8 @@ text--image/
 ## ⚙️ How to Run Locally
 1. Clone the repository
 bash
-git clone https://github.com/yourusername/your-repo-name
-cd your-repo-name
+git clone https://github.com/08theabhi/Text--Image__AI_BOT
+cd Text--Image__AI_BOT
 
 
 2. Install dependencies
