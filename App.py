@@ -7,7 +7,7 @@ st.set_page_config(page_title="Text to Image AI", layout="centered")
 
 client = InferenceClient(
     provider="hf-inference",
-    api_key="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"  # your HF token here
+    api_key="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"  # your HF token here
 )
 
 def generate_image(prompt):
